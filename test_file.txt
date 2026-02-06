@@ -1,0 +1,20 @@
+Script started on 2026-02-05 22:37:41-05:00 [TERM="xterm-256color" TTY="/dev/pts/25" COLUMNS="87" LINES="54"]
+[?2004h]0;decastrocabrica2@thur114-hp1: ~/CSCI271-Assignment2-Spring2026[01;32mdecastrocabrica2@thur114-hp1[00m:[01;34m~/CSCI271-Assignment2-Spring2026[00m$ ls
+[?2004lCSCI271_Assignment2_AbrilDeCastroCabrices.class  Fraction.class  README.md
+CSCI271_Assignment2_AbrilDeCastroCabrices.java   Fraction.java   test_file.txt
+[?2004h]0;decastrocabrica2@thur114-hp1: ~/CSCI271-Assignment2-Spring2026[01;32mdecastrocabrica2@thur114-hp1[00m:[01;34m~/CSCI271-Assignment2-Spring2026[00m$ jaj[Kav[K[Kvac [7mCSCI271_Assignment[27m[7m2[27m[7m_AbrilDeCastroCabrices.java[27m[A]0;decastrocabrica2@thur114-hp1: ~/CSCI271-Assignment2-Spring2026[01;32mdecastrocabrica2@thur114-hp1[00m:[01;34m~/CSCI271-Assignment2-Spring2026[00m$ [C[C[C[C[C[CCSCI271_Assignment2_AbrilDeCastroCabrices.java
+[?2004l[?2004h]0;decastrocabrica2@thur114-hp1: ~/CSCI271-Assignment2-Spring2026[01;32mdecastrocabrica2@thur114-hp1[00m:[01;34m~/CSCI271-Assignment2-Spring2026[00m$ java [7mCSCI271_Assignment2[27m[7m_[27m[7mAbrilDeCastroCabrices.java[27m[A]0;decastrocabrica2@thur114-hp1: ~/CSCI271-Assignment2-Spring2026[01;32mdecastrocabrica2@thur114-hp1[00m:[01;34m~/CSCI271-Assignment2-Spring2026[00m$ [C[C[C[C[CCSCI271_Assignment2_AbrilDeCastroCabrices.java
+[?2004l240/133
+48/7
+-Infinity
+-200/9
+0
+NaN
+Infinity
+355
+250/7
+-2/125
+[?2004h]0;decastrocabrica2@thur114-hp1: ~/CSCI271-Assignment2-Spring2026[01;32mdecastrocabrica2@thur114-hp1[00m:[01;34m~/CSCI271-Assignment2-Spring2026[00m$ exit
+[?2004lexit
+
+Script done on 2026-02-05 22:38:21-05:00 [COMMAND_EXIT_CODE="0"]
