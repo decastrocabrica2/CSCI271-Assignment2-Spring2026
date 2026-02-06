@@ -70,6 +70,7 @@ public class Fraction
       numerator = Long.signum(
           a); // so if the denominator is 0 then as a fraction that is not
               // allowed, so we throw away what a but we keep its sign
+      // got signum from TA
     }
 
     else if (a == 0) 
